@@ -1,0 +1,458 @@
+
+
+
+
+
+
+
+        Features
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Features
+Pricing
+Support
+Videos
+Customers
+
+
+
+
+
+            Log in
+        
+
+
+
+
+
+
+
+Features
+
+
+
+
+all
+markets
+futures
+options
+strategy
+charts
+data
+others
+
+
+
+
+
+
+                the 'Home' screen is a perfect place to start with  
+                a one-stop place with useful widgets 
+                 
+                showing just the needed info from major screens where you can see all updating together
+                on a one-page
+            
+
+
+
+
+                Get a one-page Snapshot of Gainers, Losers, Price, OI, Volume, PCR, Basis,
+                Rollover, IVs, Delivery, Active Futures, Options etc. ... daily/weekly/monthlyfor
+                any scripgroup/filter
+            
+
+
+
+
+                See all the stocks ups/downs in one-screen categorized sector-wise
+                ...
+                 
+                and not just for price, but all other FnO parameters also  
+                that too for D/W/M and any scripgroup
+            
+
+
+
+
+                See a crisp summary of sector-wise action  
+                happening across all the major FnO parameters. 
+                    You can even drill down by clicking
+                    on a specific sector and seeing the details of its components
+                
+
+
+
+
+
+                See then Long/Short Buildups/Unwindings
+                 
+                in a colourful heatmap, where it is very easy to spot & sort % changes across
+                all major FnO parameters
+            
+
+
+
+
+                All Futures in a marketwatch traders terminal view
+                 
+                highlighting not only price / volume, but also vwap, OI, prem/desc, etc. 
+                along with D/W/M changes
+            
+
+
+
+
+                All Options in a marketwatch traders terminal view
+                 
+                highlighting not only price / volume, but also vwap, OI, prem/desc, etc. 
+                along with D/W/M changes
+            
+
+
+
+
+                The action across puts/calls can be seen in a
+                 
+                easy-to-analyse graph
+                 
+                with data not only of price/oi/vol/iv, but also for any expiry & %chgs across strikes
+
+
+
+
+
+                You can also see your classic Option Chain , but with added FnO parameters
+                & to highlight data points worth noticing there are intelligent 
+                    color heatmaps
+                
+
+
+
+
+
+                to compare multiple options F&O data and their sparks across strikes in one quick view for easy comparison
+            
+
+
+
+
+Choose from inbuilt set of option strategies  
+                or custom build your very own 
+                    see live payoff & do what-if-scenario analysis
+                along with greeks, to get the possible risk-reward ratio
+            
+
+
+
+
+                to choose the best strategy based on your market view & risk appetite
+                you can define your target and stop loss levels & lo the app gets you the best strategy based on risk/reward
+            
+
+
+
+
+                covered calls, butterflies, straddles, verticals, etc. values across multiple strikes
+
+
+
+
+
+                to scan for multiple strategys across multiple symbols and multiple strikes in one go
+            
+
+
+
+
+                Build & analyse Pair strategies across any 2 scrips
+                 
+                with correlation & trade ratios
+                 
+                & see the trading bands along with Buy/Sell/Exit signals
+
+
+
+
+
+Analyse eod / live Charts not just with price, volume, technicals  
+                but with FnO parameters like OI, Delivery, IV, Basis, Rolls, PCR also for
+                D/W/M and intraday intervals too
+            
+
+
+
+
+                Analyse multiple charts in one-go with
+                 
+                Trends of any FnO parameters across 
+                    multiple time frames & intervals (live/eod ,
+                    H/D/W/M)
+                
+
+
+
+
+
+                Analyse multiple technical charts in one-go with
+                 
+                Tech alerts & indicators across 
+                    multiple time frames & intervals (live/eod ,
+                    H/D/W/M)
+                
+
+
+
+
+
+Compare on any major FnO parameter 
+                 
+                a group of scrips across a sector or your watchlist 
+                    & not only eod, but intraday
+                    also !
+                
+
+
+
+
+
+                Analyse the % changes across D/W/M/Q/Y periods
+                 
+                for FnO parameters , with easy to spot highlights based on a color heatmap
+
+
+
+
+
+                Easily identify stocks trading in the  
+                High-low band of the range  
+                across D/W/M/Q/Y for major FnO parameters
+
+
+
+
+
+                See changes for major FnO parameters
+                across various time intervals  5min/10min/60min/D/W/M/Q/Y for major FnO parameters
+
+
+
+
+
+                Get FII/DII statistics across  
+                Cash & Derivatives segments  
+                with a neat graphical display of trends for easy analysis & comparison
+            
+
+
+
+
+                Do it yourself and find the best trade as per your parameters by
+                 
+                simple clicking & filtering 
+                 
+                stocks on the go to match conditions of fno parameters, technicals, rankings, etc.
+
+
+
+
+
+                Get intelligent system-computed
+                 
+                AUTO Stock-rankings
+                 
+                based not just on price / volume / technicals but also intelligent crunching of
+                FnO data trends of OI, delivery, basis, rolls to arrive at overall Buy/sell
+                signal during
+                 
+                live Market hours also
+
+
+
+
+
+                Get a list/box/grid view of your favourite stocks or any scripgroups
+                    with all
+                    major FnO parameters & %chgs on D/W/M
+                
+
+
+
+
+
+Birds-eye view for all that you need to know about any symbol
+
+
+
+
+
+                Get insightful & critical alerts not just for
+                 
+                Price changes, volume spikes or even Technicals 
+                 
+                for that matter, but also 
+                    Long/short buildups, OI chgs, IV spikes, prem/disc, Rankings
+                    chgs, D/W/M alerts etc.
+                
+
+
+
+
+
+                Live tracking of your positions :
+                 
+                symbol-wise, strategy-wise MTMs with Greeks for risk analysis
+
+
+
+
+
+                100% Web-App
+            
+
+                it is available to you anytime, anywhere.
+                 
+                view on any device with a modern browser: pc, tablet, smartphone 
+                    pure latest web
+                    2.0 HTML5 technologies
+                 NO Flash whatsoever
+                 
+                (... so you can view it on your iPad also) Zero installation, always up-to-date
+                no end-of-day download of quotes / files.
+            
+
+
+
+
+                Info Tooltips
+            
+
+             
+            
+                Quick tooltips on simple mouse-hover to get a
+                 
+                quick snapshot of the symbol with price, sparkline & fno info
+
+
+
+
+
+                Quick Charts
+            
+
+             
+            
+                Conveniently pop-up a quick chart of the symbol you wish to see then & there
+                without opening up another window
+            
+
+
+
+
+                Auto-refresh
+            
+
+                the app intelligently just fetches increment ticks only  
+                and instead of reloading the whole page again 
+                    it just updates the required datapoints
+                    instantly
+                
+
+
+
+
+
+                Watchlists
+            
+
+             
+            
+                you can see data in all the modules filtered according to your user-defined watchlist
+                or from a set of pre-defined scripgroups / sectorwise
+
+
+
+
+
+                FnO parameters
+            
+
+             
+            like Price,Volume,OI,Rollover,Basis,IV,Delivery
+        
+
+
+
+                Custom Time-intervals
+            
+
+             
+            
+                get data points across screens with %chgs across 'X' mins/ Daily / Weekly / Monthly 
+
+
+
+
+
+                Filters
+            
+
+             
+            
+                Filter data based on no. of contracts traded eg. qty>100 or even 
+                    Monthseries,
+                    FOtype, Strikerange etc.
+                
+
+
+
+
+
+                Customize view
+            
+
+             
+            
+                you can show / hide fno parameters in graphs / tables by selecting in the
+                toolbar options
+            
+
+
+
+
+
+
+
+
+
+
+TM 
+ Copyright © 2001–2020 Seediff SoftSolutions (India) Pvt Ltd | all Rights Reserved | privacy policy | terms & conditions
+
+
+
+
+
+
