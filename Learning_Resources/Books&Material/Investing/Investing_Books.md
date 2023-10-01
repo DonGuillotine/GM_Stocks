@@ -1,8 +1,8 @@
 ### Investing:
 
 **Videos:**
-- [Warren Buffett's Investing Philosophy](https://www.youtube.com/watch?v=ARrNYyJEnFI)
-- [Ben Felix's Common Sense Investing](https://www.youtube.com/user/PWLcapital)
+- [Warren Buffett's Investing Philosophy](https://www.youtube.com/watch?v=SEZwkbliJr8)
+- [Ben Felix's Investing Channel](https://www.youtube.com/@BenFelixCSI)
 
 **Articles:**
 - [The Intelligent Investor by Benjamin Graham](https://en.wikipedia.org/wiki/The_Intelligent_Investor)

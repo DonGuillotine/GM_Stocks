@@ -14,9 +14,9 @@
 
 ### Videos:
 
-1. [Psychology of Trading - Trading Strategies](https://www.youtube.com/watch?v=y6F-IdWixFE): Explores the psychological aspects of trading and offers strategies to cope with emotions.
+1. [Psychology of Trading - Trading Strategies](https://www.youtube.com/watch?v=VEVPtWKSqc0): Explores the psychological aspects of trading and offers strategies to cope with emotions.
 
-2. [Emotional Trading Psychology - Trading Mindset](https://www.youtube.com/watch?v=kw9PpTnxOGo): Provides insights into the trading mindset and how to control emotions.
+2. [Emotional Trading Psychology - Trading Mindset](https://www.youtube.com/watch?v=dyV1NYbk_nA): Provides insights into the trading mindset and how to control emotions.
 
 ### Courses:
 

@@ -1,8 +1,8 @@
 ### Algorithmic Trading:
 
 **Videos:**
-- [Algorithmic Trading Strategies and Models](https://www.youtube.com/watch?v=JZbzCTOs9nY)
-- [Quantitative Trading Strategies](https://www.youtube.com/playlist?list=PLIxVUmnMjTDO0QRHF6RzjNeHBtYG0F-X7)
+- [Algorithmic Trading Strategies and Models](https://www.youtube.com/watch?v=5iuF42s6zNo)
+- [Quantitative Trading Strategies](https://www.youtube.com/watch?v=rlSkRMmycWo)
 
 **Articles:**
 - [Algorithmic Trading for Beginners](https://www.investopedia.com/articles/active-trading/101014/basics-algorithmic-trading-concepts-and-examples.asp)
