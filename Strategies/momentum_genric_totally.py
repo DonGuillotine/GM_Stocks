@@ -20,10 +20,14 @@ def momentum_genric_total(filename):
     # Calculate the new combined column based on user input
     momentum_total = 0
     for days, weight in user_input:
-        momentum_total += (df[last_column_name] / (df[last_column_name] - days)) * weight
+        last_Days_name=df.columns[-days]
+     
+        momentum_total += (df[last_column_name] / (df[last_Days_name])) * weight
+        print(momentum_total)
+    # print(momentum_total)
 
    # Format the values in the new_combined_column to three decimal places
-    df['momentum_total'] = momentum_total.apply(lambda x: f"{x:.3f}")
+    df['momentum_total'] = momentum_total
 
 
     # Create a new DataFrame with only 'SYMBOL' and 'momentum_total ' columns
